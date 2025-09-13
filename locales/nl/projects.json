@@ -1,0 +1,67 @@
+{
+  "top-languages-card": {
+    "title": "Mijn toptalen"
+  },
+  "projects-card": {
+    "title": "Mijn projecten",
+    "items": [
+      {
+        "title": "Minders",
+        "start": "Aug 2025",
+        "end": "Present",
+        "description": "Een taakbeheerapp in ontwikkeling voor iOS en Apple Watch, met focus op ADHD-vriendelijke feedback en het verminderen van overprikkeling."
+      },
+      {
+        "title": "Roamway",
+        "start": "Jul 2025",
+        "end": "Present",
+        "description": "Een slimme, persoonlijke reisplanner-app voor iOS en iPadOS. Binnenkort in de App Store.",
+        "link": {
+          "label": "www.roamway.app",
+          "href": "https://www.roamway.app",
+          "favicon": "https://www.roamway.app/favicon.ico"
+        }
+      },
+      {
+        "title": "Hangman",
+        "start": "Nov 2017",
+        "end": "Jan 2022",
+        "description": "Mijn eerste persoonlijke project — een JS/CSS-Galgje-spel, later bijgewerkt voor responsief mobiel gebruik.",
+        "link": {
+          "label": "Hangman",
+          "href": "https://mhint.github.io/hangman/public/index.html",
+          "favicon": "https://github.com/favicon.ico"
+        }
+      }
+    ]
+  },
+  "design-card": {
+    "title": "Mijn designcollectie",
+    "items": [
+      {
+        "title": "Roamway-app-icoon",
+        "thumb": "/thumbs/Roamway Icon.png"
+      },
+      {
+        "title": "Logo van de Las Vegas German Community",
+        "thumb": "/thumbs/LVGC Icon.png"
+      },
+      {
+        "title": "Pool Koala-logo",
+        "thumb": "/thumbs/Pool Koala.png"
+      },
+      {
+        "title": "Kikkerkoning-spel-icoon",
+        "thumb": "/thumbs/Frog King Icon.png"
+      },
+      {
+        "title": "AP Calculus T-shirtontwerp",
+        "thumb": "/thumbs/AP Calculus Shirt Design.png"
+      },
+      {
+        "title": "Discord-muziekbotlogo",
+        "thumb": "/thumbs/Galleass.png"
+      }
+    ]
+  }
+}

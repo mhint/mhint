@@ -1,0 +1,26 @@
+{
+  "me": {
+    "description": "Full-Stack-UI/UX-Entwickler",
+    "p1": "Informatikstudent an der University of Nevada, Las Vegas",
+    "p2": "Meine Mission ist es, digitale Erlebnisse mit Sorgfalt und Sinn zu gestalten",
+    "p3": "Ich freue mich darauf, meine Fähigkeiten bei neuen Möglichkeiten und Projekten einzusetzen"
+  },
+  "connect": {
+    "title": "Über mich",
+    "iam": "Ich bin Softwareentwickler aus Las Vegas mit einem akademischen Hintergrund in Informatik und Germanistik sowie zusätzlichen Kursen in Linguistik."
+  },
+  "portfolio": {
+    "skills": {
+      "title": "Meine Fähigkeiten & Toolkit",
+      "p1": "Mein Toolkit umfasst Frontend (React, Tailwind), Backend (Node.js, SQL, NoSQL) und Design (Figma) sowie zusätzliche Erfahrung in Swift. Außerdem bin ich mit Versionskontrolle (Git/GitHub), Containerisierung (Docker) und Cloud-Plattformen (AWS, Heroku) vertraut."
+    },
+    "tech": {
+      "title": "Was Technik für mich bedeutet",
+      "p1": "Technologie fühlte sich für mich schon immer wie eine Leinwand für Kreativität an – von Icons und UI-Komponenten bis zu einer interaktiven Welt menschlichen Ausdrucks. Mein Fokus liegt auf der transformativen Rolle nutzerzentrierten Designs: wie sorgfältig entwickelte Anwendungen Menschen sowie ihre Ziele und ihre Gesundheit in den Mittelpunkt stellen können."
+    },
+    "language": {
+      "title": "Meine Sprach- und interkulturelle Erfahrung",
+      "p1": "Zu meinem Studium gehören deutsche Sprache und Kultur sowie linguistische Theorie, und ich habe erlebt, wie Technologie das Verbinden über Kulturen hinweg erleichtert – sei es durch das Üben von Sprachen online oder durch die Teilnahme an globalen Communities. Besonders interessiere ich mich für Apps, die Kommunikation und kulturellen Austausch zugänglicher machen."
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "language": "Language"
+  },
+  "action": {
+    "download-cv": "DOWNLOAD MY CV",
+    "view-projects": "VIEW MY PROJECTS"
+  }
+}

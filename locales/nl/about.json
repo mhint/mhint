@@ -1,0 +1,26 @@
+{
+  "me": {
+    "description": "Full-stack UI/UX-ontwikkelaar",
+    "p1": "Student Computer Science aan de University of Nevada, Las Vegas",
+    "p2": "Mijn missie is om digitale ervaringen met zorg en doelgerichtheid te creëren",
+    "p3": "Ik kijk ernaar uit mijn vaardigheden bij nieuwe kansen en projecten toe te passen"
+  },
+  "connect": {
+    "title": "Over mij",
+    "iam": "Ik ben een softwareontwikkelaar uit Las Vegas met een academische achtergrond in Computer Science en Germanistiek, plus extra vakken in taalkunde."
+  },
+  "portfolio": {
+    "skills": {
+      "title": "Mijn vaardigheden & toolkit",
+      "p1": "Mijn toolkit omvat frontend (React, Tailwind), backend (Node.js, SQL, NoSQL) en design (Figma), met aanvullende ervaring in Swift. Ik ben ook vertrouwd met versiebeheer (Git/GitHub), containerisatie (Docker) en cloudplatforms (AWS, Heroku)."
+    },
+    "tech": {
+      "title": "Wat technologie voor mij betekent",
+      "p1": "Technologie voelt voor mij altijd als een canvas voor creativiteit—van iconen en UI-componenten tot een interactieve wereld van menselijke expressie. Mijn focus ligt op de transformerende rol van mensgericht design en hoe zorgvuldig gebouwde applicaties mensen, hun doelen en gezondheid centraal kunnen zetten."
+    },
+    "language": {
+      "title": "Mijn taal- en interculturele ervaring",
+      "p1": "Mijn studie omvat Duitse taal en cultuur en taalkundige theorie, en ik heb ervaren hoe technologie het verbinden over culturen heen vergemakkelijkt—of het nu gaat om online taal oefenen of deelnemen aan wereldwijde communities. Ik ben vooral geïnteresseerd in apps die communicatie en culturele uitwisseling toegankelijker maken."
+    }
+  }
+}

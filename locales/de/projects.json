@@ -1,0 +1,67 @@
+{
+  "top-languages-card": {
+    "title": "Meine Top-Sprachen"
+  },
+  "projects-card": {
+    "title": "Meine Projekte",
+    "items": [
+      {
+        "title": "Minders",
+        "start": "Aug 2025",
+        "end": "Present",
+        "description": "Eine sich in Entwicklung befindliche Aufgabenverwaltungs-App für iOS und die Apple Watch mit Fokus auf ADHS-freundliches Feedback und die Verringerung von Überforderung."
+      },
+      {
+        "title": "Roamway",
+        "start": "Jul 2025",
+        "end": "Present",
+        "description": "Eine intelligente, persönliche Reiseplaner-App für iOS und iPadOS. Bald im App Store erhältlich.",
+        "link": {
+          "label": "www.roamway.app",
+          "href": "https://www.roamway.app",
+          "favicon": "https://www.roamway.app/favicon.ico"
+        }
+      },
+      {
+        "title": "Hangman",
+        "start": "Nov 2017",
+        "end": "Jan 2022",
+        "description": "Mein erstes persönliches Projekt — ein JS/CSS-Galgenmännchen-Spiel, später für responsives mobiles Nutzen überarbeitet.",
+        "link": {
+          "label": "Hangman",
+          "href": "https://mhint.github.io/hangman/public/index.html",
+          "favicon": "https://github.com/favicon.ico"
+        }
+      }
+    ]
+  },
+  "design-card": {
+    "title": "Meine Design-Sammlung",
+    "items": [
+      {
+        "title": "Roamway-App-Icon",
+        "thumb": "/thumbs/Roamway Icon.png"
+      },
+      {
+        "title": "Logo der Las Vegas German Community",
+        "thumb": "/thumbs/LVGC Icon.png"
+      },
+      {
+        "title": "Pool Koala-Logo",
+        "thumb": "/thumbs/Pool Koala.png"
+      },
+      {
+        "title": "Froschkönig-Spiel-Icon",
+        "thumb": "/thumbs/Frog King Icon.png"
+      },
+      {
+        "title": "AP-Calculus-T-Shirt-Design",
+        "thumb": "/thumbs/AP Calculus Shirt Design.png"
+      },
+      {
+        "title": "Discord-Musikbot-Logo",
+        "thumb": "/thumbs/Galleass.png"
+      }
+    ]
+  }
+}

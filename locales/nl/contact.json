@@ -1,0 +1,15 @@
+{
+  "title": "Contact",
+  "description": "Als je een vraag, een projectidee hebt, of gewoon contact wilt opnemen, voel je vrij om me te bereiken via de links hieronder of stuur me hier een berichtje. Ik kijk ernaar uit om van je te horen!",
+  "form": {
+    "name": "Jouw naam",
+    "email": "Jouw e-mailadres",
+    "message": "Jouw bericht",
+    "send": "BERICHT VERZENDEN",
+    "sending": "BEZIG MET VERZENDEN...",
+    "state": {
+      "success": "Je bericht is succesvol verzonden!",
+      "error": "Er is iets misgegaan. Probeer het later opnieuw."
+    }
+  }
+}

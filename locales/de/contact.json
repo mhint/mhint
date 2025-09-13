@@ -1,0 +1,15 @@
+{
+  "title": "Kontakt",
+  "description": "Wenn du eine Frage, eine Projektidee haben oder einfach Kontakt aufnehmen möchten, kannst du dich gerne über die unten stehenden Links oder direkt hier bei mir melden. Ich freue mich darauf, von dir zu hören!",
+  "form": {
+    "name": "Dein Name",
+    "email": "Deine E-Mail",
+    "message": "Deine Nachricht",
+    "send": "NACHRICHT SENDEN",
+    "sending": "WIRD GESENDET...",
+    "state": {
+      "success": "Deine Nachricht wurde erfolgreich gesendet!",
+      "error": "Etwas ist schiefgelaufen. Bitte versuche es später erneut."
+    }
+  }
+}

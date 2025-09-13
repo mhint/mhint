@@ -1,0 +1,15 @@
+{
+  "nav": {
+    "about": "Über mich",
+    "projects": "Projekte",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten.",
+    "language": "Sprache"
+  },
+  "action": {
+    "download-cv": "LEBENSLAUF HERUNTERLADEN",
+    "view-projects": "PROJEKTE ANSEHEN"
+  }
+}

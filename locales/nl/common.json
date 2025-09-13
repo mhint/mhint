@@ -1,0 +1,15 @@
+{
+  "nav": {
+    "about": "Over mij",
+    "projects": "Projecten",
+    "contact": "Contact"
+  },
+  "footer": {
+    "rights": "Alle rechten voorbehouden.",
+    "language": "Taal"
+  },
+  "action": {
+    "download-cv": "CV DOWNLOADEN",
+    "view-projects": "PROJECTEN BEKIJKEN"
+  }
+}

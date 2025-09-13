@@ -1,0 +1,67 @@
+{
+  "top-languages-card": {
+    "title": "My Top Languages"
+  },
+  "projects-card": {
+    "title": "My Projects",
+    "items": [
+      {
+        "title": "Minders",
+        "start": "Aug 2025",
+        "end": "Present",
+        "description": "An in-development task management app for iOS and Apple Watch focused on ADHD-friendly feedback and overload reduction."
+      },
+      {
+        "title": "Roamway",
+        "start": "Jul 2025",
+        "end": "Present",
+        "description": "A smart, personal itinerary builder app for iOS and iPadOS. Coming soon to the App Store.",
+        "link": {
+          "label": "www.roamway.app",
+          "href": "https://www.roamway.app",
+          "favicon": "https://www.roamway.app/favicon.ico"
+        }
+      },
+      {
+        "title": "Hangman",
+        "start": "Nov 2017",
+        "end": "Jan 2022",
+        "description": "My first personal project — a JS/CSS Hangman game, later updated for responsive mobile use.",
+        "link": {
+          "label": "Hangman",
+          "href": "https://mhint.github.io/hangman/public/index.html",
+          "favicon": "https://github.com/favicon.ico"
+        }
+      }
+    ]
+  },
+  "design-card": {
+    "title": "My Design Collection",
+    "items": [
+      {
+        "title": "Roamway App Icon",
+        "thumb": "/thumbs/Roamway Icon.png"
+      },
+      {
+        "title": "Las Vegas German Community Logo",
+        "thumb": "/thumbs/LVGC Icon.png"
+      },
+      {
+        "title": "Pool Koala Logo",
+        "thumb": "/thumbs/Pool Koala.png"
+      },
+      {
+        "title": "Frog King Game Icon",
+        "thumb": "/thumbs/Frog King Icon.png"
+      },
+      {
+        "title": "AP Calculus Shirt Design",
+        "thumb": "/thumbs/AP Calculus Shirt Design.png"
+      },
+      {
+        "title": "Discord Music Bot Logo",
+        "thumb": "/thumbs/Galleass.png"
+      }
+    ]
+  }
+}

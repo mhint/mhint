@@ -1,0 +1,26 @@
+{
+  "me": {
+    "subtitle": "Full-Stack UI/UX Developer",
+    "p1": "Computer Science student at the University of Nevada, Las Vegas",
+    "p2": "My mission is to deliver digital experiences with care and purpose",
+    "p3": "Eager to apply my skills in new opportunities"
+  },
+  "connect": {
+    "title": "About Me",
+    "iam": "I’m a software developer from Las Vegas with an academic background in Computer Science and German Studies, and additional coursework in linguistics."
+  },
+  "portfolio": {
+    "skills": {
+      "title": "My Skills & Toolkit",
+      "p1": "My toolkit spans frontend (React, Tailwind), backend (Node.js, SQL, NoSQL), and design (Figma), with additional experience in Swift. I’m also familiar with version control (Git/GitHub), containerization (Docker) and cloud platforms (AWS, Heroku)."
+    },
+    "tech": {
+      "title": "What Tech Means to Me",
+      "p1": "Technology has always felt like a canvas for creativity—from icons and UI components to an interactive world of human expression. My focus has been on the transformative role of human-centered design, exploring how thoughtfully built applications can put people and their goals and health in focus."
+    },
+    "language": {
+      "title": "My Language & Intercultural Experience",
+      "p1": "My studies include German language and culture, as well as linguistic theory, and I’ve experienced how technology makes it easier to connect across cultures—whether through practicing languages online or joining global communities. I’m especially interested in apps that make communication and cultural exchange more accessible."
+    }
+  }
+}
