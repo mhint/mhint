@@ -6,32 +6,54 @@
     "title": "Meine Projekte",
     "items": [
       {
+        "title": "Intel Nachhaltigkeit und Blumengeschäft Redesign",
+        "start": "Sep 2025",
+        "end": "Sep 2025",
+        "description": "Leitete das Redesign von zwei unterschiedlichen Web-Erlebnissen: einer Intel-Nachhaltigkeits­chronik und einer Blumenladen-Website. Fokus auf klare Layouts, responsives Design und ausgewogene Markenführung, um sowohl unternehmerische Verantwortung als auch lokalen Gemeinschafts­charme hervorzuheben.",
+        "links": [
+          {
+            "label": "Intels Nachhaltigkeits­chronik",
+            "href": "https://mhint.github.io/gca-wd-intel/",
+            "favicon": "https://mhint.github.io/gca-wd-intel/favicon.ico"
+          },
+          {
+            "label": "Blumengeschäft Redesign",
+            "href": "https://mhint.github.io/gca-wd-flower-shop/",
+            "favicon": "https://mhint.github.io/gca-wd-flower-shop/favicon.ico"
+          }
+        ]
+      },
+      {
         "title": "Minders",
         "start": "Aug 2025",
-        "end": "Present",
-        "description": "Eine sich in Entwicklung befindliche Aufgabenverwaltungs-App für iOS und die Apple Watch mit Fokus auf ADHS-freundliches Feedback und die Verringerung von Überforderung."
+        "end": "heute",
+        "description": "Eine sich in Entwicklung befindende Aufgabenverwaltungs-App für iOS und Apple Watch, mit Schwerpunkt auf ADHS-freundlichem Feedback und Reduzierung von Überlastung."
       },
       {
         "title": "Roamway",
         "start": "Jul 2025",
-        "end": "Present",
-        "description": "Eine intelligente, persönliche Reiseplaner-App für iOS und iPadOS. Bald im App Store erhältlich.",
-        "link": {
-          "label": "www.roamway.app",
-          "href": "https://www.roamway.app",
-          "favicon": "https://www.roamway.app/favicon.ico"
-        }
+        "end": "heute",
+        "description": "Ein intelligenter, persönlicher Reiseplaner für iOS und iPadOS. Bald im App Store erhältlich.",
+        "links": [
+          {
+            "label": "www.roamway.app",
+            "href": "https://www.roamway.app",
+            "favicon": "https://www.roamway.app/favicon.ico"
+          }
+        ]
       },
       {
-        "title": "Hangman",
+        "title": "Galgenmännchen",
         "start": "Nov 2017",
         "end": "Jan 2022",
-        "description": "Mein erstes persönliches Projekt — ein JS/CSS-Galgenmännchen-Spiel, später für responsives mobiles Nutzen überarbeitet.",
-        "link": {
-          "label": "Hangman",
-          "href": "https://mhint.github.io/hangman/public/index.html",
-          "favicon": "https://github.com/favicon.ico"
-        }
+        "description": "Mein erstes persönliches Projekt — ein JS/CSS-Galgenmännchenspiel, später für mobiles, responsives Layout aktualisiert.",
+        "links": [
+          {
+            "label": "Galgenmännchen",
+            "href": "https://mhint.github.io/hangman/public/index.html",
+            "favicon": "https://github.com/favicon.ico"
+          }
+        ]
       }
     ]
   },

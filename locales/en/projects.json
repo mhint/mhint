@@ -6,6 +6,24 @@
     "title": "My Projects",
     "items": [
       {
+        "title": "Intel Sustainability and Flower Shop Redesign",
+        "start": "Sep 2025",
+        "end": "Sep 2025",
+        "description": "Led the redesign of two distinct web experiences: an Intel sustainability timeline and a flower shop website. Focused on clean layouts, responsive design, and balanced branding elements to highlight both corporate responsibility initiatives and local community charm.",
+        "links": [
+          {
+            "label": "Intel's Sustainability Timeline",
+            "href": "https://mhint.github.io/gca-wd-intel/",
+            "favicon": "https://mhint.github.io/gca-wd-intel/favicon.ico"
+          },
+          {
+            "label": "Flower Shop Redesign",
+            "href": "https://mhint.github.io/gca-wd-flower-shop/",
+            "favicon": "https://mhint.github.io/gca-wd-flower-shop/favicon.ico"
+          }
+        ]
+      },
+      {
         "title": "Minders",
         "start": "Aug 2025",
         "end": "Present",
@@ -16,22 +34,26 @@
         "start": "Jul 2025",
         "end": "Present",
         "description": "A smart, personal itinerary builder app for iOS and iPadOS. Coming soon to the App Store.",
-        "link": {
-          "label": "www.roamway.app",
-          "href": "https://www.roamway.app",
-          "favicon": "https://www.roamway.app/favicon.ico"
-        }
+        "links": [
+          {
+            "label": "www.roamway.app",
+            "href": "https://www.roamway.app",
+            "favicon": "https://www.roamway.app/favicon.ico"
+          }
+        ]
       },
       {
         "title": "Hangman",
         "start": "Nov 2017",
         "end": "Jan 2022",
         "description": "My first personal project — a JS/CSS Hangman game, later updated for responsive mobile use.",
-        "link": {
-          "label": "Hangman",
-          "href": "https://mhint.github.io/hangman/public/index.html",
-          "favicon": "https://github.com/favicon.ico"
-        }
+        "links": [
+          {
+            "label": "Hangman",
+            "href": "https://mhint.github.io/hangman/public/index.html",
+            "favicon": "https://github.com/favicon.ico"
+          }
+        ]
       }
     ]
   },
