@@ -9,10 +9,10 @@
         "title": "Intel Duurzaamheid en Bloemenwinkel Redesign",
         "start": "sep 2025",
         "end": "sep 2025",
-        "description": "Leidde de herontwerp van twee verschillende webervaringen: een Intel-duurzaamheids­timeline en een bloemenwinkelwebsite. Gericht op strakke lay-outs, responsief design en gebalanceerde branding om zowel bedrijfsverantwoordelijkheid als lokale gemeenschaps­uitstraling te benadrukken.",
+        "description": "Leidde de herontwerp van twee verschillende webervaringen: een Intel-duurzaamheidstimeline en een bloemenwinkelwebsite. Gericht op strakke lay-outs, responsief design en gebalanceerde branding om zowel bedrijfsverantwoordelijkheid als lokale gemeenschapsuitstraling te benadrukken.",
         "links": [
           {
-            "label": "Intels Duurzaamheids­timeline",
+            "label": "Intels Duurzaamheidstimeline",
             "href": "https://mhint.github.io/gca-wd-intel/",
             "favicon": "https://mhint.github.io/gca-wd-intel/favicon.ico"
           },
@@ -46,7 +46,7 @@
         "title": "Galgje",
         "start": "nov 2017",
         "end": "jan 2022",
-        "description": "Mijn eerste persoonlijke project — een JS/CSS-Galgje­spel, later bijgewerkt voor responsief mobiel gebruik.",
+        "description": "Mijn eerste persoonlijke project — een JS/CSS-Galgjespel, later bijgewerkt voor responsief mobiel gebruik.",
         "links": [
           {
             "label": "Galgje",
