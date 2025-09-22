@@ -43,6 +43,29 @@
         ]
       },
       {
+        "title": "Nevada EMPOWER Website",
+        "start": "Jan 2024",
+        "end": "Present",
+        "description": "Working alongside one other developer, I migrated the entire codebase to React and TypeScript, ensuring type safety and maintainability. I then drove a full design overhaul—realigning the site with brand standards, enhancing responsiveness, and improving accessibility—ultimately boosting developer velocity and enabling smoother feature development.",
+        "links": [
+          {
+            "label": "www.empower.unlv.edu",
+            "href": "https://www.empower.unlv.edu",
+            "favicon": "https://www.empower.unlv.edu/favicon.ico"
+          }
+        ]
+      },
+      {
+        "title": "Frog King Game",
+        "start": "Jan 2023",
+        "end": "May 2023",
+        "description": "A mobile game app for iOS and Android where players help a frog king reclaim his throne by solving puzzles and completing challenges. Developed using React Native and Expo.",
+        "links": [
+          {
+            "label": "GitHub Repo",
+            "href": "
+      },
+      {
         "title": "Hangman",
         "start": "Nov 2017",
         "end": "Jan 2022",
