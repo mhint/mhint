@@ -57,9 +57,9 @@
         "description": "Initially working alongside one other developer, I migrated the entire frontend codebase to React and TypeScript, ensuring type safety and maintainability, and boosting developer velocity. I then drove a full design overhaul—realigning the site with brand standards, enhancing responsiveness, and improving accessibility.",
         "links": [
           {
-            "label": "www.empower.unlv.edu",
-            "href": "https://www.empower.unlv.edu",
-            "favicon": "https://www.empower.unlv.edu/assets/img/favicon.png"
+            "label": "empower.unlv.edu",
+            "href": "https://empower.unlv.edu",
+            "favicon": "https://empower.unlv.edu/assets/img/favicon.png"
           }
         ]
       },
