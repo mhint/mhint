@@ -43,7 +43,7 @@
         "description": "An in-development task management app for iOS and Apple Watch focused on ADHD-friendly feedback and overload reduction."
       },
       {
-        "title": "Roamway Travel Planner (Swift-native)",
+        "title": "Roamway Travel Planner (iOS, Swift-native)",
         "start": "Jul 2025",
         "end": "Present",
         "description": "I am developing a smart, personal itinerary builder app for iOS and iPadOS, leveraging Apple's frameworks like MapKit and the Apple Intelligence Foundation Model.",
@@ -56,7 +56,7 @@
         ]
       },
       {
-        "title": "Nevada EMPOWER Website (React/TypeScript/SQL)",
+        "title": "Nevada EMPOWER Website (Express, React, TypeScript, SQL)",
         "start": "Jan 2024",
         "end": "Present",
         "description": "Working alongside one other developer, I migrated the entire frontend codebase to React and TypeScript, ensuring type safety and maintainability, and boosting developer velocity. I then drove a full design overhaul—realigning the site with brand standards, enhancing responsiveness, and improving accessibility.",
