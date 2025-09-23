@@ -9,7 +9,7 @@
         "title": "Intel Sustainability Website",
         "start": "Sep 2025",
         "end": "Oct 2025",
-        "description": "Leveraged React and Bootstrap to create a website mockup showcasing Intel's sustainability timeline..",
+        "description": "Leveraged React and Bootstrap to create a website mockup showcasing Intel's sustainability timeline.",
         "links": [
           {
             "label": "Intel's Sustainability Timeline",
@@ -22,11 +22,16 @@
         "title": "Flower Shop Website Redesign",
         "start": "Sep 2025",
         "end": "Sep 2025",
-        "description": "Led a redesign for a flower shop website, focusing on on clean layouts, responsive design, and balanced branding elements to highlight local community charm.",
+        "description": "Led a redesign for a flower shop website, focusing on on visual hierarchy, responsive design, and balanced branding elements to highlight local community charm.",
         "links": [
           {
-            "label": "Flower Shop Redesign",
+            "label": "Flower Shop Site Redesign",
             "href": "https://mhint.github.io/gca-wd-site-redesign/",
+            "favicon": "https://mhint.github.io/gca-wd-site-redesign/favicon.ico"
+          },
+          {
+            "label": "Original Flower Shop Site",
+            "href": "https://mhint.github.io/gca-wd-site-redesign/original/index.html",
             "favicon": "https://mhint.github.io/gca-wd-site-redesign/favicon.ico"
           }
         ]
