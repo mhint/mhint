@@ -6,9 +6,41 @@
     "title": "My Project Showcase",
     "items": [
       {
+        "title": "Roamway Travel Planner (iOS, Swift-native)",
+        "start": "Jul 2025",
+        "end": "Present",
+        "description": "I am developing a smart, personal itinerary builder app for iOS and iPadOS, leveraging Apple's frameworks like MapKit and the Apple Intelligence Foundation Model.",
+        "links": [
+          {
+            "label": "www.roamway.app",
+            "href": "https://www.roamway.app",
+            "favicon": "https://www.roamway.app/favicon.ico"
+          }
+        ]
+      },
+      {
+        "title": "Minders: Calendar and Task Manager",
+        "start": "Aug 2025",
+        "end": "Present",
+        "description": "An in-development task management app for iOS and Apple Watch focused on ADHD-friendly feedback and overload reduction."
+      },
+      {
+        "title": "Nevada EMPOWER Website (Express, React, TypeScript, SQL)",
+        "start": "Mar 2024",
+        "end": "Present",
+        "description": "Working alongside one other developer, I migrated the entire frontend codebase to React and TypeScript, ensuring type safety and maintainability, and boosting developer velocity. I then drove a full design overhaul—realigning the site with brand standards, enhancing responsiveness, and improving accessibility.",
+        "links": [
+          {
+            "label": "empower.unlv.edu",
+            "href": "https://empower.unlv.edu",
+            "favicon": "https://empower.unlv.edu/assets/img/favicon.png"
+          }
+        ]
+      },
+      {
         "title": "Intel Sustainability Website (React, Vite, Bootstrap)",
         "start": "Sep 2025",
-        "end": "Oct 2025",
+        "end": "Sep 2025",
         "description": "I leveraged React, Vite, and Bootstrap to create a website mockup showcasing Intel's sustainability timeline, incorporating Arabic translation to demonstrate right-to-left (RTL) accessibility.",
         "links": [
           {
@@ -37,34 +69,15 @@
         ]
       },
       {
-        "title": "Minders: Calendar and Task Manager",
-        "start": "Aug 2025",
-        "end": "Present",
-        "description": "An in-development task management app for iOS and Apple Watch focused on ADHD-friendly feedback and overload reduction."
-      },
-      {
-        "title": "Roamway Travel Planner (iOS, Swift-native)",
-        "start": "Jul 2025",
-        "end": "Present",
-        "description": "I am developing a smart, personal itinerary builder app for iOS and iPadOS, leveraging Apple's frameworks like MapKit and the Apple Intelligence Foundation Model.",
+        "title": "JS Hangman",
+        "start": "Nov 2017",
+        "end": "Jan 2022",
+        "description": "I developed a Hangman game in JavaScript as my first personal project, later applying object-oriented programming principles and enhancing the site with responsive web design to improve usability across devices.",
         "links": [
           {
-            "label": "www.roamway.app",
-            "href": "https://www.roamway.app",
-            "favicon": "https://www.roamway.app/favicon.ico"
-          }
-        ]
-      },
-      {
-        "title": "Nevada EMPOWER Website (Express, React, TypeScript, SQL)",
-        "start": "Mar 2024",
-        "end": "Present",
-        "description": "Working alongside one other developer, I migrated the entire frontend codebase to React and TypeScript, ensuring type safety and maintainability, and boosting developer velocity. I then drove a full design overhaul—realigning the site with brand standards, enhancing responsiveness, and improving accessibility.",
-        "links": [
-          {
-            "label": "empower.unlv.edu",
-            "href": "https://empower.unlv.edu",
-            "favicon": "https://empower.unlv.edu/assets/img/favicon.png"
+            "label": "Hangman",
+            "href": "https://mhint.github.io/hangman/public/index.html",
+            "favicon": "https://github.com/favicon.ico"
           }
         ]
       },
@@ -78,19 +91,6 @@
             "label": "mhint.github.io",
             "href": "https://mhint.github.io/cul-geog-project/index.html",
             "favicon": "https://mhint.github.io/cul-geog-project/favicon.ico"
-          }
-        ]
-      },
-      {
-        "title": "JS Hangman",
-        "start": "Nov 2017",
-        "end": "Jan 2022",
-        "description": "I developed a Hangman game in JavaScript as my first personal project, later applying object-oriented programming principles and enhancing the site with responsive web design to improve usability across devices.",
-        "links": [
-          {
-            "label": "Hangman",
-            "href": "https://mhint.github.io/hangman/public/index.html",
-            "favicon": "https://github.com/favicon.ico"
           }
         ]
       }
