@@ -72,7 +72,7 @@
         "title": "Pandemic Travel Visualization Website (JQuery, Mapbox API)",
         "start": "Nov 2020",
         "end": "Dec 2020",
-        "description": "I built an interactive web-based travel visualization tool using Mapbox to analyze 24 months of personal geolocation data, displaying key trends and revealing shifts in travel habits before and during pandemic-era restrictions.",
+        "description": "I built an interactive web-based travel visualization tool using Mapbox to analyze 24 months of personal geolocation data, displaying key trends and revealing shifts in travel habits before and during pandemic-era restrictions. Disclaimer: This website was written with legacy technologies and is not mobile-friendly.",
         "links": [
           {
             "label": "mhint.github.io",
