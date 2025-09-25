@@ -6,10 +6,10 @@
     "title": "My Project Showcase",
     "items": [
       {
-        "title": "Intel Sustainability Website",
+        "title": "Intel Sustainability Website (React, Vite, Bootstrap)",
         "start": "Sep 2025",
         "end": "Oct 2025",
-        "description": "I leveraged React and Bootstrap to create a website mockup showcasing Intel's sustainability timeline.",
+        "description": "I leveraged React, Vite, and Bootstrap to create a website mockup showcasing Intel's sustainability timeline, incorporating Arabic translation to demonstrate right-to-left (RTL) accessibility.",
         "links": [
           {
             "label": "Intel's Sustainability Timeline",
@@ -22,7 +22,7 @@
         "title": "Flower Shop Website Redesign",
         "start": "Sep 2025",
         "end": "Sep 2025",
-        "description": "I redesigned a flower shop’s website to transform a flat, text-heavy layout into a vibrant, community-focused experience. The update introduced clear visual hierarchy, responsive design, and a refreshed color palette. My additions include a seasonal offerings section and details highlighting the shop’s local charm.",
+        "description": "I redesigned a flower shop’s website to transform a flat, text-heavy layout into a vibrant, community-focused experience. The update introduced clear visual hierarchy, responsive design, and a refreshed color palette. My additions include a seasonal offerings section and details highlighting the shop’s local charm. I also created a logomark and favicon to enhance brand identity.",
         "links": [
           {
             "label": "Flower Shop Site Redesign",
@@ -57,9 +57,9 @@
       },
       {
         "title": "Nevada EMPOWER Website (Express, React, TypeScript, SQL)",
-        "start": "Jan 2024",
+        "start": "Mar 2024",
         "end": "Present",
-        "description": "Working alongside one other developer, I migrated the entire frontend codebase to React and TypeScript, ensuring type safety and maintainability, and boosting developer velocity. I then drove a full design overhaul—realigning the site with brand standards, enhancing responsiveness, and improving accessibility.",
+        "description": "Working alongside one other developer, I migrated the entire frontend codebase to React and TypeScript, ensuring type safety and maintainability, and boosting developer velocity. I then drove a full design overhaul, clarifying the brand identity, enhancing the user experience, and improving accessibility. raising the Lighthouse accessibility score from 85 to 100.",
         "links": [
           {
             "label": "empower.unlv.edu",
