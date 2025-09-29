@@ -10,13 +10,7 @@
         "start": "Jul 2025",
         "end": "Present",
         "description": "I am developing a smart, personal itinerary builder app for iOS and iPadOS, leveraging Apple's frameworks like MapKit and the Apple Intelligence Foundation Model.",
-        "links": [
-          {
-            "label": "www.roamway.app",
-            "href": "https://www.roamway.app",
-            "favicon": "https://www.roamway.app/favicon.ico"
-          }
-        ]
+        "links": []
       },
       {
         "title": "Minders: Calendar and Task Manager",
