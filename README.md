@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhint&count_private=true&show_icons=true&theme=github_dark&hide=html,css,scss,dockerfile&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-6aym6sp3n-morris-hintons-projects.vercel.app/api/top-langs/?username=mhint&layout=compact&theme=github_dark&hide_border=true&count_private=true&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
